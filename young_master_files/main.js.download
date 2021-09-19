@@ -103,7 +103,7 @@ $(function() {
             "self-sacrificial",
             "arrogant",
             "rich",
-            "poor",
+            "impoverished",
         ],
 
         race: [
