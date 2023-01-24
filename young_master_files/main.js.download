@@ -15,7 +15,7 @@ $(function() {
         ],
 
         template: [
-            "@adjective @race @dclass @location @backstory",
+            "@adjective @race dressed in @colour and @colour, with @dclass wielding @location @backstory",
         ],
 
         adjective: [
@@ -107,14 +107,14 @@ $(function() {
         ],
 
         race: [
-            "young master with",
-            "young master with",
-            "young master with",
-            "young master with",
-            "young master with",
-            "second young master with",
-            "second young master with",
-            "third young master with",
+            "young master",
+            "young master",
+            "young master",
+            "young master",
+            "young master",
+            "second young master",
+            "second young master",
+            "third young master",
 
         ],
 
@@ -170,8 +170,22 @@ $(function() {
             "a love for cooking",
         ],
 
-        location: [
-            "wielding",
+        colour: [
+            "red",
+            "white",
+            "gold",
+            "silver",
+            "bronze",
+            "black",
+            "green",
+            "blue",
+            "purple",
+            "rose",
+            "lavender",
+            "orange",
+            "brown",
+            "grey",
+            "turquoise",
         ],
 
         backstory: [
