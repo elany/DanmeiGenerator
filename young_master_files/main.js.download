@@ -15,7 +15,7 @@ $(function() {
         ],
 
         template: [
-            "@adjective @race dressed in @colour and @colour, with @dclass wielding @backstory",
+            "@adjective @race with @dclass, dressed in @colour and @colour, wielding @backstory",
         ],
 
         adjective: [
